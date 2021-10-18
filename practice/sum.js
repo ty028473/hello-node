@@ -8,6 +8,7 @@ function sum(param) {
  console.log(y)
 }
 
+
 sum(3)
 sum(6)
 sum(10)
